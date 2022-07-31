@@ -1,5 +1,7 @@
 # 🚀人事異動情報を収集するためのツールです
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ma-r-co/crawl_hr_news_in_nikkei/main?labpath=crawl_hr_news_in_nikkei.ipynb)
+
 免責事項:
 当ツールによって生じた如何なるトラブル・損失・損害に対してもツール作成者は責任を負うものではないことを予めご了承ください。
 
